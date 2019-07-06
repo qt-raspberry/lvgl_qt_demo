@@ -7,3 +7,6 @@
 [submodule "lv_examples"]
 	path = lv_examples
 	url = https://github.com/littlevgl/lv_examples.git
+[submodule "lv_linux_frame_buffer"]
+	path = lv_linux_frame_buffer
+	url = https://github.com/littlevgl/lv_linux_frame_buffer
