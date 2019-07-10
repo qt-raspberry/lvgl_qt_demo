@@ -2,6 +2,7 @@ cmake_minimum_required(VERSION 2.8)
 
 project(lvgl-sim)
 
+
 file(GLOB_RECURSE LVGL_SRC "lvgl/*.c" )
 
 include_directories(${CMAKE_SOURCE_DIR})
